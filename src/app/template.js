@@ -46,7 +46,6 @@ export default function SidebarDemo({ children }) {
     <div
       className={cn(
         "flex flex-1 flex-col rounded-md border border-neutral-200 bg-gray-100 md:flex-row dark:border-neutral-700 dark:bg-neutral-800",
-        // for your use case, use `h-screen` instead of `h-[60vh]`
         "h-[100vh]"
       )}
     >
