@@ -15,7 +15,7 @@ A modern, responsive frontend dashboard inspired by **CRED Garage**, built using
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [TailwindCSS](https://tailwindcss.com/)
 - **UI Components**:
-  - [Acertainty UI](https://www.acertainty.com/) *(Sidebar, Layout, etc.)*
+  - [Acertainty UI](https://www.acertainty.com/) *(Sidebar)*
   - [ShadCN UI](https://ui.shadcn.com/) *(Cards, Buttons, Toggles, etc.)*
 - **State Management**: React **Context API**
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)
