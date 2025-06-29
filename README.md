@@ -45,6 +45,14 @@ A modern, responsive frontend dashboard inspired by **CRED Garage**, built using
 ### 💫 Smooth Transitions
 - Page and hover animations using **Framer Motion**
 
+### 🚧 Custom 404 Page
+- A dedicated and styled "Page Not Found" screen
+- Triggered when users navigate to an undefined route
+- Includes back/home navigation and friendly messaging
+
 ---
 
+## 📁 Folder Structure (Optional)
+
+> You can include this if you want readers to understand your project layout.
 
