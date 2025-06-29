@@ -52,7 +52,3 @@ A modern, responsive frontend dashboard inspired by **CRED Garage**, built using
 
 ---
 
-## 📁 Folder Structure (Optional)
-
-> You can include this if you want readers to understand your project layout.
-
